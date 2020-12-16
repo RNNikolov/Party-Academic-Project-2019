@@ -1,0 +1,5 @@
+Nikolov,Radoslav,9,3,1999,Ruse,Bulgaria,Bulgarian,rn_nikolov@abv.bg,football;calisthetic;basketball
+Curry,Wardell,14,3,1988,LA,USA,American,curry@gmail.com,basketball;golf
+Aleksandrov,Andrew,9,5,1999,Ruse,Bulgaria,Bulgarian,alexandrow@mail.bg,programming;swimming
+Sandoval,Mike,30,8,1967,Ruse,Bulgaria,Bulgarian,mike@abv.bg,fitness;eating
+St. Patrick,James,10,5,1982,New York,USA,American,ghost@abv.bg,running;working;
