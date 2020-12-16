@@ -1,3 +1,2 @@
 # Party-Academic-Project-2019
-
-This is my second academic project that I made for my second semester. The task was to make a simple social network without all the network communication. I created profiles, a Binary Search Tree for storage and a recursively define traversal method to read the profiles and output them to console. All code has been commented following the university commmenting standard.
+The Party project is my second project that I made for my second semester. The task was to make a simple social network like Facebook but without all the network communication. I have implemented the possibility of creating profiles, a Binary Search Tree for storage, a recursively define traversal method to read and output the profiles plus output the profiles in alphabetical order. The last thing that has to be implemented was friends recommendations. All of my code has been commented following the university commenting standard. 
